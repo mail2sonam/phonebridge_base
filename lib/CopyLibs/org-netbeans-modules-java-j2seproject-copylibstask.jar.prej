@@ -1,0 +1,5 @@
+Trying to add new property 'svn:mime-type'
+but the property already exists.
+<<<<<<< (local property value)
+application/octet-stream=======
+application/zip>>>>>>> (incoming property value)
